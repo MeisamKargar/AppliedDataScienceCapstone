@@ -14,7 +14,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ## Section 1: data collection from wikipedia: 
 In the first step, we collect data from Wikipedia, which is available through the web scraping for watch this section you can click [here](https://github.com/MeisamKargar/AppliedDataScienceCapstone/blob/main/jupyter-labs-webscraping.ipynb)
 ## Section 2: Data wrangling:
-In this [lab](https://github.com/MeisamKargar/AppliedDataScienceCapstone/blob/3e4dfe4c07e83d7375b123c492718939b35f8604/labs-jupyter-spacex-Data%20wrangling.ipynb), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+In this [lab](https://github.com/MeisamKargar/AppliedDataScienceCapstone/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb)), we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
 In the data set, there are several different cases where the booster did not land successfully. Sometimes a landing was attempted but failed due to an accident; for example, True Ocean means the mission outcome was successfully landed to a specific region of the ocean while False Ocean means the mission outcome was unsuccessfully landed to a specific region of the ocean. True RTLS means the mission outcome was successfully landed to a ground pad False RTLS means the mission outcome was unsuccessfully landed to a ground pad.True ASDS means the mission outcome was successfully landed on a drone ship False ASDS means the mission outcome was unsuccessfully landed on a drone ship.
 
